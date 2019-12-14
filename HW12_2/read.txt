@@ -1,0 +1,3 @@
+The regret after not doing something is bigger
+than that of doing something.
+
